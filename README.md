@@ -157,7 +157,7 @@ violating the principles of REST.</p>
 the base should identify a resource or collection of resources. The query
 parameter is appended to the end of the resource path.</p>
 
-mso-fareast-language:EN-GB'>http://example.com/users/1234/activities?activityType=running</span></p>
+http://example.com/users/1234/activities?activityType=running</span></p>
 
 
 <p>
