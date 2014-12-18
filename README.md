@@ -161,13 +161,7 @@ http://example.com/users/1234/activities?activityType=running</span></p>
 
 
 <p>
-  Base URL
-<span></span>
-<span></span>
-Resource
-<span></span>
-<span></span>
-Query Parameter
+  Base URL, Resource, Query Parameter
 </p>
 
 <p>In the above example, the resource should be viewed in a
